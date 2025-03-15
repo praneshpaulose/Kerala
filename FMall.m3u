@@ -47,6 +47,16 @@ https://stream.zeno.fm/oe9zdwoawkotv
 https://stream.zeno.fm/qhfucjdviheuv
 
 
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",UTV TV
+http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVTV TV
+https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION TV
+http://xstream.onecloudlive.in:8080/hls/nvisionhd/tracks-v1a1/mono.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION MUSIC
+http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
+
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",MOON TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",YAALTV
@@ -56,6 +66,9 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="LANKA",Shakthi Tv
 https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
