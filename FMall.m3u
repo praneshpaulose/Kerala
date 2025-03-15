@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,ALL TIME HITS
+#EXTINF:0 tvg-name="ALL TIME HITS" tvg-logo="" tvg-id="" group-title="FM RADIO",ALL TIME HITS
 https://stream.zeno.fm/nenajo1bxnpuv
-#EXTINF:0,BEATMUSIC
+#EXTINF:0 tvg-name="ALL TIME HITS" tvg-logo="" tvg-id="" group-title="FM RADIO",BEATMUSIC
 https://stream.zeno.fm/4n5zy3k7g18uv
-#EXTINF:0,CANDLES BAND
+#EXTINF:0 tvg-name="ALL TIME HITS" tvg-logo="" tvg-id="" group-title="FM RADIO",CANDLES BAND
 https://stream.zeno.fm/uhpaq0k7g18uv
-#EXTINF:0,CHRISTIAN KESTER HITS
+#EXTINF:0tvg-name="ALL TIME HITS" tvg-logo="" tvg-id="" group-title="FM RADIO",CHRISTIAN KESTER HITS
 https://stream.zeno.fm/ehx70zmkxy8uv
 #EXTINF:0,CHRISTIAN OLD SONGS HiTS
 https://stream.zeno.fm/ugcbkvdan48uv
