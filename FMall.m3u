@@ -69,6 +69,8 @@ https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",TSPORTS
+https://live.tsports.com/mobile_hls/tsports_live_1/index.m3u8
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
