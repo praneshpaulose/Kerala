@@ -56,6 +56,21 @@ http://xstream.onecloudlive.in:8080/hls/nvisionhd/tracks-v1a1/mono.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION MUSIC
 http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
 
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",KTV
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",ZEE THIR
+http://babel-group-ka-playlist.vercel.app/1182.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Mega24
+https://airtel.fredflix.fun/api/55d8096de148247b0c6f078cc9981fb6.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SiRiPo
+https://airtel.fredflix.fun/api/d565fe62540adb9970c83bbdf8e96109.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Megatv
+https://airtel.fredflix.fun/api/0e65a5585f32dc655737dd9d16b76270.mpd
+
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",MOON TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
