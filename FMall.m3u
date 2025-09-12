@@ -46,15 +46,33 @@ https://stream.zeno.fm/oe9zdwoawkotv
 #EXTINF:0 tvg-name="" tvg-logo="" tvg-id="" group-title="FM",K-FEVER
 https://stream.zeno.fm/qhfucjdviheuv
 
+#EXTINF:0 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",Stingray Pop
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",24 NEWS
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",MATHRUBHUMI NEWS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",MANORAMA NEWS
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",ZEE MALAYALAM NEWS
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",REPORTER NEWS
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS", NEWS 24x7 malayalam
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",UTV TV
-http://live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/index.m3u8
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVTV TV
 https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION TV
 http://xstream.onecloudlive.in:8080/hls/nvisionhd/tracks-v1a1/mono.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION MUSIC
 http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
+
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA TV HD
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
@@ -91,3 +109,4 @@ https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
