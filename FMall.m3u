@@ -400,18 +400,19 @@ https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES
-http://87.255.35.150:18211
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES SEL
-http://87.255.35.150:18548
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",MNX HD
-http://87.255.35.150:18936
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",MOVIES NOW HD
-http://87.255.35.150:18935
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX
-http://87.255.35.150:18495
 
-#EXTINF:-1 group-title="Kids" group-title="ENGLISH MOVIES" tvg-logo="",AND PRiVE HD
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES
+http://87.255.35.150:18211
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES SEL
+http://87.255.35.150:18548
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MNX HD
+http://87.255.35.150:18936
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MOVIES NOW HD
+http://87.255.35.150:18935
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX
+http://87.255.35.150:18495
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND PRiVE HD
 http://87.255.35.150:18494
 
 
@@ -419,6 +420,7 @@ http://87.255.35.150:18494
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
 
 
