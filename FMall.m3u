@@ -75,9 +75,9 @@ http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",KTV
-https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+https://livestream10.sunnxt.com/DolbyVision/kTV_HDR/KTV_HDR_Endpoints/KTV-HDR10-IN-index.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",ZEE THIR
 http://babel-group-ka-playlist.vercel.app/1182.mpd
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Life
@@ -109,4 +109,5 @@ https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 
