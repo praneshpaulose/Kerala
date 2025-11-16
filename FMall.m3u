@@ -46,8 +46,10 @@ https://stream.zeno.fm/oe9zdwoawkotv
 #EXTINF:0 tvg-name="" tvg-logo="" tvg-id="" group-title="FM",K-FEVER
 https://stream.zeno.fm/qhfucjdviheuv
 
+
 #EXTINF:0 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",Stingray Pop
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",24 NEWS
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
@@ -62,6 +64,7 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS", NEWS 24x7 malayalam
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
 
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",UTV TV
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVTV TV
@@ -71,19 +74,27 @@ http://xstream.onecloudlive.in:8080/hls/nvisionhd/tracks-v1a1/mono.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",NVISION MUSIC
 http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
 
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA TV HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD HD
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD 
+http://87.255.35.150:18822
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET PLUS
+http://87.255.35.150:18831
+
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
-#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",KTV
-https://livestream10.sunnxt.com/DolbyVision/kTV_HDR/KTV_HDR_Endpoints/KTV-HDR10-IN-index.m3u8
-#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",ZEE THIR
-http://babel-group-ka-playlist.vercel.app/1182.mpd
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN MUSIC
+http://87.255.35.150:18821
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",JAYA TV
+http://87.255.35.150:18820
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",star vijay
+http://87.255.35.150:18832
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Life
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Mega24
@@ -93,13 +104,13 @@ https://airtel.fredflix.fun/api/d565fe62540adb9970c83bbdf8e96109.mpd
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",Megatv
 https://airtel.fredflix.fun/api/0e65a5585f32dc655737dd9d16b76270.mpd
 
+
 #EXTINF:-1 group-title="TAMIL LOCAL" tvg-id="SanaPlus" tvg-logo="https://i.imgur.com/N6tKUZv.png",MU | Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 group-title="TAMIL LOCAL" tvg-id="Sanatv" tvg-logo="https://i.imgur.com/N6tKUZv.png",MU | Sana Tv
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 group-title="TAMIL LOCAL" tvg-id="MNTVMusic" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",MU | MNTV Music
 https://mntv.livebox.co.in/musichls/live.m3u8
-
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",MOON TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",YAALTV
@@ -107,21 +118,12 @@ http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="LANKA",Shakthi Tv
 https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
 
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",Star Sports 1 HD Hindi
-http://87.255.35.150:18302
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",Star Sports 2
-http://87.255.35.150:18828
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
-https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",ASTRO CRICKET
-http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",TSPORTS
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",WILLOW
-https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
+
+
 
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
@@ -137,6 +139,10 @@ http://195.189.60.31:8003/play/a0gk/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
 http://87.255.35.150:18296/
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",SONY MAX HD
+http://87.255.35.150:18851
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD
+http://87.255.35.150:18859
 
 #EXTINF:-1 group-title="HINDI ENT" tvg-logo="",SONY HD
 http://217.20.112.199/sethd/index.m3u8
@@ -178,6 +184,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-id="HindiHits.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HITS-RADIO-2024.svg",MU | Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
+http://87.255.35.150:18863
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
+http://87.255.35.150:18302
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
+http://87.255.35.150:18828
+
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",ASTRO CRICKET
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",TSPORTS
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",KHL HD
+http://194.143.148.28:8080/KHL_HD/index.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
 http://178.23.88.55/Sport1/index.m3u8
@@ -333,4 +359,5 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
