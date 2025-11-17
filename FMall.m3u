@@ -49,6 +49,9 @@ https://stream.zeno.fm/qhfucjdviheuv
 
 #EXTINF:6 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",Stingray Pop
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:6 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",O music
+https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+
 
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",24 NEWS
@@ -80,6 +83,8 @@ http://xstream.onecloudlive.in:8080/hls/nvisionhd/tracks-v1a1/mono.m3u8
 http://nvision.stream.onecloudlive.in:8080/nvision/nvisionmusic/index.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM LOCAL",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",FLOWERS TV
 http://87.255.35.150:18933
@@ -114,10 +119,12 @@ http://87.255.35.150:18212
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KAMUDI
 http://87.255.35.150:18919
 
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",power vision
 http://87.255.35.150:18925
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",shalom
 http://87.255.35.150:18917
+
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
@@ -416,10 +423,13 @@ http://87.255.35.150:18495
 http://87.255.35.150:18494
 
 
+
+
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BalleBalle.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Balle_Balle.jpeg",MU | Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
 
 
