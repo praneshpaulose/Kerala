@@ -269,6 +269,30 @@ http://178.23.88.55/Eurosport_2/index.m3u8
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 2
 http://79.127.243.211:14506/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 3
+http://79.127.243.211:14510/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 4
+http://79.127.243.211:14514/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Brand spo
+http://79.127.243.211:14445/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",E1
+http://79.127.243.211:14500/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 3
+http://79.127.243.211:14473/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 2
+http://79.127.243.211:14469/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",  SBT
+http://79.127.243.211:14095/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 6
+http://79.127.243.211:14497/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 5
+http://79.127.243.211:14493/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 4
+http://79.127.243.211:14489/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 3
+http://79.127.243.211:14481/
+#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 2
+http://79.127.243.211:14485/
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport
 http://178.23.88.55/Arena_sport/index.m3u8
@@ -433,6 +457,7 @@ http://87.255.35.150:18494
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
 
 
