@@ -309,6 +309,12 @@ https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1FR
+http://5.9.119.146:8883/beinfr1/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2FR
+http://5.9.119.146:8883/beinfr2/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports
 
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
@@ -533,6 +539,7 @@ http://66.102.120.18:8000/play/a022/index.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
 
 
