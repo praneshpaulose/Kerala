@@ -160,6 +160,8 @@ http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
 
+
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="LANKA",Shakthi Tv
 https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
 
@@ -179,6 +181,8 @@ http://195.189.60.31:8003/play/a0gk/index.m3u8
 http://87.255.35.150:18220
 
 
+
+
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",ZEE CINEMA
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
@@ -187,7 +191,21 @@ http://87.255.35.150:18296/
 http://87.255.35.150:18851
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD
 http://87.255.35.150:18859
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& xplor
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& flix
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& pictures
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD2
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD SEL
+http://66.102.120.18:8000/play/a01s/index.m3u8
 
+
+
+#EXTINF:-1 group-title="HINDI ENT" tvg-logo="",& TV
+http://66.102.120.18:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="HINDI ENT" tvg-logo="",SONY HD
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",B4U Movies
@@ -200,6 +218,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-id="Zoom.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zoom_2018_logo.jpg",MU | Zoom
@@ -230,6 +249,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
+
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
 http://87.255.35.150:18863
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
@@ -244,8 +265,15 @@ http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
 http://103.240.44.26/Sony-Ten-3-HD/index.fmp4.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten5
 http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 SEL
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 SEL
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 HD Hindi
+http://66.102.120.18:8000/play/a00v/index.m3u8
 
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",WILLOW
+http://87.255.35.150:18957/
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS", POW SPORTS 
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
@@ -258,6 +286,30 @@ http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",KHL HD
 http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",MUTV
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",RM TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 1
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 2
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 3
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 4
+https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 5
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 6
+https://ww.dooballfree.vip/live/tsp6/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 7
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
+
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
 http://178.23.88.55/Sport1/index.m3u8
@@ -307,6 +359,19 @@ http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+http://143.244.60.30/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
+http://87.255.35.150:18902
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Angry Bird
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
@@ -437,26 +502,38 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES HD
 http://87.255.35.150:18211
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES
+http://66.102.120.18:8000/play/a021/index.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES SEL
 http://87.255.35.150:18548
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MNX HD
 http://87.255.35.150:18936
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MOVIES NOW HD
 http://87.255.35.150:18935
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX HD
 http://87.255.35.150:18495
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX
+http://66.102.120.18:8000/play/a01z/index.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND PRiVE HD
 http://87.255.35.150:18494
-
-
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AXN
+http://66.102.120.18:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",COLORS INFINITY
+http://66.102.120.18:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND FLIX HD
+http://66.102.120.18:8000/play/a022/index.m3u8
 
 
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BalleBalle.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Balle_Balle.jpeg",MU | Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",MU | BritAsiaTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 
 
 
