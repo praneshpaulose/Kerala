@@ -644,14 +644,27 @@ http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=
 #EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL", RMC SPORT 4 
 
 
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",SKY SPORTS TENNIS
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",
 
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH TEST" tvg-logo="",FOX 35
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
+
+
+#EXTINF:-1 group-title="" group-title="ENGLISH TEST" tvg-logo="",FOX 35
 https://fl1.moveonjoy.com/FOX/index.m3u8
 
 
 
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Sniper: The Last Stand (2025)
+http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
+http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
 
 
 
