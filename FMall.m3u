@@ -47,10 +47,20 @@ https://stream.zeno.fm/oe9zdwoawkotv
 https://stream.zeno.fm/qhfucjdviheuv
 
 
-#EXTINF:6 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",Stingray Pop
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",Stingray Pop
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:6 tvg-name="" tvg-logo="" tvg-id="" group-title="MUSIC",O music
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",O music
 https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/poster_20230215_212234.jpg",TRACE Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://tv.minchev.eu/logos/vibee.tv.png",V2Beat
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://tv.minchev.eu/logos/kronehit.at.png",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://tv.minchev.eu/logos/1mus.png",1 Music Channel
+http://rtmp.one.by:1300
+#EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png",1 Music Channel
+http://rtmp.one.by:2300
 
 
 
@@ -179,7 +189,8 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 http://195.189.60.31:8003/play/a0gk/index.m3u8
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",DISCOVERY
 http://87.255.35.150:18220
-
+#EXTINF:-1 tvg-id="" tvg-name="4K Travel TV" tvg-logo="https://i.ibb.co/mF0S3SsL/1000160635.png" group-title="INFO",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
 
 
@@ -257,6 +268,9 @@ http://87.255.35.150:18863
 http://87.255.35.150:18302
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
 http://87.255.35.150:18828
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 3
+http://87.255.35.150:18804/
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten1
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten2
@@ -265,12 +279,15 @@ http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
 http://103.240.44.26/Sony-Ten-3-HD/index.fmp4.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten5
 http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 SEL
 http://66.102.120.18:8000/play/a06x/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 SEL
 http://66.102.120.18:8000/play/a06y/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 HD Hindi
 http://66.102.120.18:8000/play/a00v/index.m3u8
+
+
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",WILLOW
 http://87.255.35.150:18957/
@@ -541,6 +558,80 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1102187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ FOOT
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",🆉🅴🅴 CANAL+ FOOT 4K.
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256629&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL FOOT 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256631&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ FOOT 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256121&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ SPORT 360 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256628&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ Sport 360 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256124&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ SPORT360 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256630&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ Sport 
+
+
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=92493&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 1 ( March 4, 2026)" group-title=" RMC CHANNEL",RMC SPORT LIVE 1 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=234&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT1 " group-title=" RMC CHANNEL", RMC SPORT1 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1232&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 " group-title=" RMC CHANNEL", RMC SPORT 1
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32835&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 " group-title=" RMC CHANNEL", RMC SPORT 1 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12790&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 2 " group-title="RMC CHANNEL",RMC SPORT 2 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=203436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 2 " group-title="RMC CHANNEL", RMC SPORT LIVE 2 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=235&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT2 " group-title="RMC CHANNEL", RMC SPORT2 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1233&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 " group-title="RMC CHANNEL", RMC SPORT 2 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12789&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTs 2 " group-title="RMC CHANNEL", RMC SPORTs 2 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32836&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 3 \u1d34\u1d30" group-title="RMC CHANNEL",RMC SPORT LIVE 3 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=118420&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="  RMC SPORT 3 \" group-title="RMC CHANNEL", RMC SPORT 3 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32837&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 3 \u02e2\u1d30" group-title="RMC CHANNEL",RMC SPORT 3
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12788&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 4 " group-title="RMC CHANNEL", RMC SPORT LIVE 4 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=118421&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL",🆉🅴🅴 RMC SPORT 4 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32838&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 ACCESS " group-title="RMC CHANNEL",🆉🅴🅴 RMC SPORT 1 ACCESS 
+
+http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL", RMC SPORT 4 
 
 
 
