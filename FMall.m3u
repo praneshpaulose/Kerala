@@ -632,31 +632,36 @@ http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32837&extension
 #EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 3 \u02e2\u1d30" group-title="RMC CHANNEL",RMC SPORT 3
 
 http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12788&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 4 " group-title="RMC CHANNEL", RMC SPORT LIVE 4 
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 4 " group-title="RMC CHANNEL",RMC SPORT LIVE 4 
 
 http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=118421&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL",🆉🅴🅴 RMC SPORT 4 
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL",RMC SPORT 4 
 
 http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32838&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 ACCESS " group-title="RMC CHANNEL",🆉🅴🅴 RMC SPORT 1 ACCESS 
+#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 ACCESS " group-title="RMC CHANNEL", RMC SPORT 1 ACCESS 
 
 http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL", RMC SPORT 4 
 
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",SKY SPORTS TENNIS
+#EXTINF:-1  group-title="TENNIS" tvg-logo="",SKY SPORTS TENNIS
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="TENNIS" tvg-logo="",
+#EXTINF:-1  group-title="TENNIS" tvg-logo="",
+
+#EXTINF:-1  group-title="TENNIS" tvg-logo="",
 
 
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
+#EXTINF:-1  group-title="RUS SPORTS" tvg-logo="",Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
+#EXTINF:-1  group-title="CRICKET" tvg-logo="",A SPORTS 
+https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
 
-
-#EXTINF:-1 group-title="" group-title="ENGLISH TEST" tvg-logo="",FOX 35
+#EXTINF:-1 group-title="ENGLISH TEST" tvg-logo="",FOX 35
 https://fl1.moveonjoy.com/FOX/index.m3u8
 
 
@@ -665,6 +670,7 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
