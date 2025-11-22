@@ -644,6 +644,20 @@ http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=
 #EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL", RMC SPORT 4 
 
 
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 1 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 2 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 3 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_3/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 4 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 5 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_5/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+
+
+
+
 #EXTINF:-1  group-title="TENNIS" tvg-logo="",SKY SPORTS TENNIS
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
 
@@ -656,13 +670,29 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
 #EXTINF:-1  group-title="RUS SPORTS" tvg-logo="",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
 
-#EXTINF:-1  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
-#EXTINF:-1  group-title="CRICKET" tvg-logo="",A SPORTS 
-https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH TEST" tvg-logo="",FOX 35
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS 1 NZ 
+http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",WILLOW
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",
+
+
+#EXTINF:-61 group-title="ENGLISH TEST" tvg-logo="",FOX 35
 https://fl1.moveonjoy.com/FOX/index.m3u8
+
+
+
+
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",7 NEWS
+https://foxhindi.pages.dev/playlist.m3u8
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
+
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
+
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
 
 
@@ -670,6 +700,7 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
