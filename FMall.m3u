@@ -181,18 +181,20 @@ https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",India Life Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-logo="",NATIONAL GEOGRAPHIC HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET 
-http://195.189.60.31:8003/play/a0gk/index.m3u8
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",DISCOVERY
 http://87.255.35.150:18220
 #EXTINF:-1 tvg-id="" tvg-name="4K Travel TV" tvg-logo="https://i.ibb.co/mF0S3SsL/1000160635.png" group-title="INFO",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
 
+#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-logo="",NATIONAL GEOGRAPHIC HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET 
+http://195.189.60.31:8003/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="Educational" group-title="Educational" tvg-logo="",Divinity
+http://172.93.102.112:8989/278832_.m3u8
 
 
 
@@ -210,6 +212,8 @@ http://66.102.120.18:8000/play/a012/index.m3u8
 http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& pictures
 http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& pictures
+http://87.255.35.150:18510
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD2
 http://66.102.120.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD SEL
@@ -217,10 +221,25 @@ http://66.102.120.18:8000/play/a01s/index.m3u8
 
 
 
-#EXTINF:-1 group-title="HINDI ENT" tvg-logo="",& TV
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",& TV
 http://66.102.120.18:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="HINDI ENT" tvg-logo="",SONY HD
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY HD
 http://217.20.112.199/sethd/index.m3u8
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",STAR PLUS
+http://87.255.35.150:18850/
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",STAR BHARAT
+http://87.255.35.150:18853/
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY HD
+http://87.255.35.150:18809/
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY SAB
+http://87.255.35.150:18810/
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",ZEE TV
+http://87.255.35.150:18849/
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",COLORS
+http://87.255.35.150:18890/
+
+
+
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
@@ -290,8 +309,10 @@ http://66.102.120.18:8000/play/a06y/index.m3u8
 http://66.102.120.18:8000/play/a00v/index.m3u8
 
 
-
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",LALIGA hypermotion
+http://172.93.102.112:8989/278842_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",LIGA De com..
+http://172.93.102.112:8989/278845_.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",ESPN NEWS
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CBS SPORTS NETWORK
@@ -317,6 +338,10 @@ http://194.143.148.28:8080/KHL_HD/index.m3u8
 https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",RM TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",FAST SPORTS HD 🇦🇲
+http://66.102.120.18:8000/play/a05f/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",T SPORT 
+http://66.102.120.18:8000/play/a032/index.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 1
 https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
@@ -394,13 +419,13 @@ http://78.108.251.7/Arena_Sport_5/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",HUNGAMA
+http://87.255.35.150:18811/
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",DISNEY_CHANNEL
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",NICK_JR
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
@@ -561,6 +586,10 @@ http://66.102.120.18:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND FLIX HD
 http://66.102.120.18:8000/play/a022/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo=""HWD HOLLYWOOD
+http://172.93.102.112:8989/278839_.m3u8
+
+
 
 #EXTINF:-1 group-title="PUNJABI MUSIC" tvg-id="BalleBalle.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Balle_Balle.jpeg",MU | Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
@@ -685,6 +714,20 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 
 
 
+#EXTINF:-51  group-title="NEWS" tvg-logo="",ZEE NEWS
+http://87.255.35.150:18854/
+#EXTINF:-51  group-title="NEWS" tvg-logo="",AAJ TAK
+http://87.255.35.150:18958/
+#EXTINF:-51  group-title="NEWS" tvg-logo="",NDTV
+http://87.255.35.150:18819/
+#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+
+#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+
+#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+
+#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",7 NEWS
 https://foxhindi.pages.dev/playlist.m3u8
@@ -696,10 +739,13 @@ https://foxhindi.pages.dev/playlist.m3u8
 
 
 
+
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Sniper: The Last Stand (2025)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
