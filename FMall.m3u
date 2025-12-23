@@ -700,6 +700,7 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
 http://185.57.68.33/110/mpegts
 
 
+
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS 1 NZ 
@@ -707,6 +708,7 @@ http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",WILLOW
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",
+
 
 
 #EXTINF:-61 group-title="ENGLISH TEST" tvg-logo="",FOX 35
@@ -720,13 +722,15 @@ http://87.255.35.150:18854/
 http://87.255.35.150:18958/
 #EXTINF:-51  group-title="NEWS" tvg-logo="",NDTV
 http://87.255.35.150:18819/
-#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+#EXTINF:-51  group-title="NEWS" tvg-logo="",
 
-#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+#EXTINF:-51  group-title="NEWS" tvg-logo="",
 
-#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+#EXTINF:-51  group-title="NEWS" tvg-logo="",
 
-#EXTINF:-51  group-title="NEWS" tvg-logo="",7 NEWS
+#EXTINF:-51  group-title="NEWS" tvg-logo="",
+
+
 
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",7 NEWS
@@ -737,14 +741,19 @@ https://foxhindi.pages.dev/playlist.m3u8
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
+
+
 #EXTINF:-51  group-title="TEST" tvg-logo="",RAJ NEWS MAL
 https://fucking-tv-ott.keralive.workers.dev/mumt04/RAJNEWSMALAYALAM/index.m3u8
+
+
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Sniper: The Last Stand (2025)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
