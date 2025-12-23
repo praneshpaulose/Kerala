@@ -737,14 +737,15 @@ https://foxhindi.pages.dev/playlist.m3u8
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
-
-
+#EXTINF:-51  group-title="TEST" tvg-logo="",RAJ NEWS MAL
+https://fucking-tv-ott.keralive.workers.dev/mumt04/RAJNEWSMALAYALAM/index.m3u8
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Sniper: The Last Stand (2025)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
