@@ -47,6 +47,11 @@ https://stream.zeno.fm/oe9zdwoawkotv
 https://stream.zeno.fm/qhfucjdviheuv
 
 
+
+
+
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",30A MUSIC
+https://30a-tv.com/music.m3u8
 #EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",Stingray Pop
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",O music
@@ -61,6 +66,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-26 group-title="ENG MUSIC" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png",1 Music Channel
 http://rtmp.one.by:2300
+
+
 
 
 
@@ -168,6 +175,29 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/inde
 http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rasi TV HD" tvg-logo="https://i.ibb.co/4Zptmxxp/rasitv-hd.png" group-title="Rasi Networks",Rasi TV HD
+https://rasinetworks.in/live/rasitvhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Tamil HD" tvg-logo="https://i.ibb.co/MyksR9md/rasi-tamil-hd.png" group-title="Rasi Networks",Rasi Tamil HD
+https://rasinetworks.in/live/rasitamilhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Movies HD" tvg-logo="https://i.ibb.co/93WWCwWn/rasi-movies-hd.png" group-title="Rasi Networks",Rasi Movies HD
+https://rasinetworks.in/live/rasimovieshd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Music HD" tvg-logo="https://i.ibb.co/0ycKLm65/Rasi-Music.png" group-title="Rasi Networks",Rasi Music HD
+https://rasinetworks.in/live/rasimusichd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Hollywood HD" tvg-logo="https://i.ibb.co/3mTBLq5K/rasi-hollywood-hd.png" group-title="Rasi Networks",Rasi Hollywood HD
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Classic HD" tvg-logo="https://i.ibb.co/jPS6pLqQ/rasi-classic-hd.png" group-title="Rasi Networks",Rasi Classic HD
+https://rasinetworks.in/live/rasiclassichd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinemax HD" tvg-logo="https://i.ibb.co/WN1jkx0n/Rasi-Cinemax.png" group-title="Rasi Networks",Rasi Cinemax HD
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinema HD" tvg-logo="https://i.ibb.co/nsB9m777/Rasi-Cinema.png" group-title="Rasi Networks",Rasi Cinema HD
+https://rasinetworks.in/live/rasicinemahd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Comedy HD" tvg-logo="https://i.ibb.co/4w9ywpHP/rasi-comedy.png" group-title="Rasi Networks",Rasi Comedy HD
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Lifestyle HD" tvg-logo="https://i.ibb.co/pr2wvtfQ/rasi-lifestyle-hd.png" group-title="Rasi Networks",Rasi Lifestyle HD
+https://rasinetworks.in/live/rasilifestylehd/index.mpd
+
+
 
 
 
@@ -286,7 +316,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
 http://87.255.35.150:18863
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
-http://87.255.35.150:18302
+https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
 http://87.255.35.150:18828
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 3
@@ -419,6 +449,12 @@ http://78.108.251.7/Arena_Sport_4/index.m3u8
 http://78.108.251.7/Arena_Sport_5/index.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",Baby Shark Tv
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",HUNGAMA
 http://87.255.35.150:18811/
@@ -747,8 +783,8 @@ http://87.255.35.150:18819/
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",7 NEWS
 https://foxhindi.pages.dev/playlist.m3u8
-#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
-
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
@@ -765,6 +801,7 @@ https://fucking-tv-ott.keralive.workers.dev/mumt04/RAJNEWSMALAYALAM/index.m3u8
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
