@@ -104,63 +104,65 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",FLOWERS TV
-http://87.255.35.150:18933
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ZEE KERALAM
-http://87.255.35.150:18502
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA TV HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA MOVIES
-http://87.255.35.150:18932
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA COM
-http://87.255.35.150:18253
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA MUSIC
-http://87.255.35.150:18450
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Mazhavil Manorama HD
-http://87.255.35.150:18223
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD 
-http://87.255.35.150:18822
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET PLUS
-http://87.255.35.150:18831
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Amritha
-http://87.255.35.150:18915
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KAPPA TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",WE
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KOCHU TV
-http://87.255.35.150:18212
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KAMUDI
-http://87.255.35.150:18919
+
 
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",power vision
-http://87.255.35.150:18925
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",shalom
-http://87.255.35.150:18917
+
+
+
 
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",KTV (1080p)
-http://87.255.35.150:18805
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN MUSIC
-http://87.255.35.150:18821
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",JAYA TV
-http://87.255.35.150:18820
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",star vijay
-http://87.255.35.150:18832
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",COLORS TAMIL
-http://87.255.35.150:18225
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",VIJAY SUPER
-http://87.255.35.150:18954
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",VIJAY TUKER
-http://87.255.35.150:18950
+
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",ZEE THIRAI
-http://87.255.35.150:18597
+
 
 
 #EXTINF:-1 group-title="TAMIL LOCAL" tvg-id="SanaPlus" tvg-logo="https://i.imgur.com/N6tKUZv.png",MU | Sana Plus
@@ -231,11 +233,11 @@ http://172.93.102.112:8989/278832_.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",ZEE CINEMA
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
-http://87.255.35.150:18296/
+
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",SONY MAX HD
-http://87.255.35.150:18851
+
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD
-http://87.255.35.150:18859
+
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& xplor
 http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& flix
@@ -243,7 +245,7 @@ http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& pictures
 http://66.102.120.18:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",& pictures
-http://87.255.35.150:18510
+
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD2
 http://66.102.120.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD SEL
@@ -256,17 +258,17 @@ http://66.102.120.18:8000/play/a01u/index.m3u8
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY HD
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",STAR PLUS
-http://87.255.35.150:18850/
+
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",STAR BHARAT
-http://87.255.35.150:18853/
+
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY HD
-http://87.255.35.150:18809/
+
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",SONY SAB
-http://87.255.35.150:18810/
+
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",ZEE TV
-http://87.255.35.150:18849/
+
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",COLORS
-http://87.255.35.150:18890/
+
 
 
 
@@ -314,13 +316,13 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
-http://87.255.35.150:18863
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
-http://87.255.35.150:18828
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 3
-http://87.255.35.150:18804/
+
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten1
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
@@ -748,6 +750,12 @@ http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",
 
+#EXTINF:-9  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title="CRICKET" , Willow Cricbuzz
+http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+#EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title="CRICKET" , Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+
 
 #EXTINF:-11  group-title="FOOTBALL" tvg-logo="",SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500/index.m3u8
@@ -801,6 +809,7 @@ https://fucking-tv-ott.keralive.workers.dev/mumt04/RAJNEWSMALAYALAM/index.m3u8
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
