@@ -318,18 +318,11 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
-
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
 https://starsportshindiii.pages.dev/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 3
 
 
@@ -722,15 +715,21 @@ http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=
 
 
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 1 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+https://sixseven.attitude.my.id/skynz1/index.m3u8
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 2 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+https://sixseven.attitude.my.id/skynz2/index.m3u8
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 3 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_3/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+https://sixseven.attitude.my.id/skynz3/index.m3u8
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 4 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+https://sixseven.attitude.my.id/skynz4/index.m3u8
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 5 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_5/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+https://sixseven.attitude.my.id/skynz5/index.m3u8
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 6 NZ 
+https://sixseven.attitude.my.id/skynz6/index.m3u8
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 7 NZ 
+https://sixseven.attitude.my.id/skynz7/index.m3u8
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 8 NZ 
+https://sixseven.attitude.my.id/skynz8/index.m3u8
 
 
 
@@ -750,13 +749,13 @@ http://185.57.68.33/110/mpegts
 
 
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.ts
+
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS CRICKET
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:-9  group-title="CRICKET" tvg-logo="",SKY SPORTS 1 NZ 
-http://135.125.238.26:8080/catena-36-1149990-streamer-nz_sky_sport_1/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",
+
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",WILLOW
-https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",
 
 #EXTINF:-9  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title="CRICKET" , Willow Cricbuzz
@@ -818,6 +817,7 @@ https://fucking-tv-ott.keralive.workers.dev/mumt04/RAJNEWSMALAYALAM/index.m3u8
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
