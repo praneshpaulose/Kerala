@@ -808,11 +808,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-51  group-title="TEST" tvg-logo="",🏏w🏏p🏏l🏏
-#https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 
 #EXTINF:-59  group-title="TEST2" tvg-logo="",live
-#https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 {
       "keys": [
         {
@@ -831,6 +831,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
