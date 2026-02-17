@@ -138,9 +138,9 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",power vision
-
+https://yuppnimresmum.akamaized.net/28072023/smil:powervision.smil/playlist.m3u8?hdnts=st%3D1771312314~exp%3D1771333914~acl%3D%21%2A%2F28072023%2Fsmil%3Apowervision.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_143_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_143_-1~hmac%3Dfe62573b384af8447743c03ff6059192f36d230e6ec5c77f6f58c12d2583502b
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",shalom
-
+https://yuppnimrestreammum.akamaized.net/260723/smil:shalomtv1.smil/playlist.m3u8?hdnts=st%3D1771312313~exp%3D1771333913~acl%3D%21%2A%2F260723%2Fsmil%3Ashalomtv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_142_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_142_-1~hmac%3D6582c901751c54e945827e7b39b7ce52d421acf3fdc17c3d3a50030b8b535677
 
 
 
@@ -1094,6 +1094,7 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=i6mgzmegXa97PMVVJ-EeCg&exp
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
