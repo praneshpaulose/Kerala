@@ -645,9 +645,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD Hindi
 https://starsportshindiii.pages.dev/index.m3u8
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 HD 
+https://aynaott.unosottor.workers.dev/bpk-tv/starsports1hd.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2
-
+https://aynaott.unosottor.workers.dev/bpk-tv/starsports2hd.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 3
 
 
@@ -1051,8 +1052,8 @@ http://185.57.68.33/110/mpegts
 
 #EXTINF:-9  group-title="CRICKET" tvg-logo="",WILLOW
 
-#EXTINF:-9  group-title="CRICKET" tvg-logo="",
-
+#EXTINF:-9  group-title="CRICKET" tvg-logo="",TSPOTs
+https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-9  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg" group-title="CRICKET" , Willow Cricbuzz
 http://xui.mainserver.cc:80/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1  tvg-id=" " tvg-name=" " tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg" group-title="CRICKET" , Willow Sports
@@ -1419,6 +1420,7 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=i6mgzmegXa97PMVVJ-EeCg&exp
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7413.mkv
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",Bhool Bhulaiyaa 3 (2024)
 http://main.epgmaker.com/movie/Ali130225/Cpyej2JL56Xy/7877.mkv
+
 
 
 
