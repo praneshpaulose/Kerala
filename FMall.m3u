@@ -49,6 +49,18 @@ https://stream.zeno.fm/qhfucjdviheuv
 
 
 
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",MTV Base HD
+http://3.tvtm.one/ch2766/mono.m3u8?token=zazann.v2_F-3uhRXyYiFv_ncnz3UROHA_CtLaT3SwdW06qLVsRtvCVHasfrWnoplI-HncDlfECIz2jBIML3s
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",MTV Idol HD
+http://3.tvtm.one/ch2752/mono.m3u8?token=zazann.v2_K_PZmbv3IJpbrxfSGrhF5yDIFsoNgVvwiwgu9YYE3FT3LFrMA7T2W5d9vGVaEyI6k8ZD3zQ3-Wg
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",MTV Pulse HD
+http://3.tvtm.one/ch2758/mono.m3u8?token=zazann.v2_cvHSHZeUzJaEk4znIuASBE6H2mitg2q3QU8mr_8--HYglODRSLGgkhpkMTO_pfPgOnxppcmYqo0
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",MTV Club HD
+http://3.tvtm.one/ch3895/mono.m3u8?token=zazann.v2_ByIn4KBE_-Vj2gVdGtE--O9RjBURFMBGpsR74pq_1Fm07RsbEVfrNAYMZjQW969iRy8uzb8a3bo
+#EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",MTV Hits HD
+http://3.tvtm.one/ch3896/mono.m3u8?token=zazann.v2_l1-sjH__xY_jl2r2b4dAksB_etSlRxQD_Rzcln9fu6nTFRoTtPlf4QnyE1gg-6paL1Z234Q8thU
+
+
 
 #EXTINF:26 tvg-name="" tvg-logo="" tvg-id="" group-title="ENG MUSIC",30A MUSIC
 https://30a-tv.com/music.m3u8
@@ -1077,13 +1089,13 @@ https://fl1.moveonjoy.com/FOX/index.m3u8
 
 
 #EXTINF:-51  group-title="NEWS" tvg-logo="",ZEE NEWS
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
 #EXTINF:-51  group-title="NEWS" tvg-logo="",AAJ TAK
-
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-51  group-title="NEWS" tvg-logo="",NDTV
 
-#EXTINF:-51  group-title="NEWS" tvg-logo="",
-
+#EXTINF:-51  group-title="NEWS" tvg-logo="",R. Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-51  group-title="NEWS" tvg-logo="",
 
 #EXTINF:-51  group-title="NEWS" tvg-logo="",
@@ -1419,6 +1431,7 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=i6mgzmegXa97PMVVJ-EeCg&exp
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
+
 
 
 
