@@ -738,12 +738,20 @@ https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1FR
-http://5.9.119.146:8883/beinfr1/index.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2FR
-http://5.9.119.146:8883/beinfr2/index.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports7
+http://135.125.109.73:9000/beinsport7_.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
 http://178.23.88.55/Sport1/index.m3u8
@@ -1431,6 +1439,7 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=i6mgzmegXa97PMVVJ-EeCg&exp
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
+
 
 
 
