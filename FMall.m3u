@@ -1081,8 +1081,8 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 
 
 
-#EXTINF:-11  group-title="FOOTBALL" tvg-logo="",SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500/index.m3u8
+#EXTINF:-11  group-title="FOOTBALL" tvg-logo="",D SPORTS 
+https://cdn-content-cf2-us.latamlive.net/DS1_ENC_LIVE/index.m3u8
 #EXTINF:-11  group-title="FOOTBALL" tvg-logo="",
 
 #EXTINF:-11  group-title="FOOTBALL" tvg-logo="",
@@ -1122,7 +1122,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#EXTINF:-1group-title="SUN" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194389" tvg-language="Hindi" tvg-logo="https://sund-images.sunnxt.com/194389/640x360_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="SunNxt", Sun Neo HD
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -1434,11 +1437,24 @@ https://n6.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=i6mgzmegXa97PMVVJ-EeCg&exp
 
 
 
+#EXTINF:-99 group-title="TEST007" tvg-id="ts428" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Raj News Malayalam.png" group-title="Regional",Raj News Malayalam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=428
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://103.168.18.83/ninjatp/manifest.mpd?id=428|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+
+
+
+
+
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
+
 
 
 
