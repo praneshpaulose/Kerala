@@ -573,7 +573,7 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",ZEE CINEMA
 
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
-
+http://103.140.254.2:3500/live/1477.m3u8
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",SONY MAX HD
 
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD
@@ -590,6 +590,7 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",STAR GOLD SEL
 
+#EXTINF:-1 group-title="HINDI MOVI" tvg-logo="",COLORS CINIPL
 
 
 
@@ -670,36 +671,37 @@ https://aynaott.unosottor.workers.dev/bpk-tv/starsports2hd.m3u8
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten1
-http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten2
-http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten3
-http://103.240.44.26/Sony-Ten-3-HD/index.fmp4.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten5
 http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 SEL
-http://66.102.120.18:8000/play/a06x/index.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 SEL
-http://66.102.120.18:8000/play/a06y/index.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 HD Hindi
-http://66.102.120.18:8000/play/a00v/index.m3u8
+
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",match
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",TNT sports1
-http://178.33.239.54:8080/509/index.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",LALIGA hypermotion
 http://172.93.102.112:8989/278842_.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",LIGA De com..
 http://172.93.102.112:8989/278845_.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",ESPN NEWS
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CBS SPORTS NETWORK
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CBS SPORTS NETWORK usa
-https://e5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",
+
+
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",WILLOW
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
@@ -708,36 +710,39 @@ https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",CRICKET GOLD
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",ASTRO CRICKET
-http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",TSPORTS
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",KHL HD
 http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",MUTV
-https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",RM TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",FAST SPORTS HD 🇦🇲
-http://66.102.120.18:8000/play/a05f/index.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",T SPORT 
-http://66.102.120.18:8000/play/a032/index.m3u8
 
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 1
-https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 2
-https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 3
-https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 4
-https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 5
-https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 6
-https://ww.dooballfree.vip/live/tsp6/playlist.m3u8
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="TRUE SPORTS",Ture sports 7
-https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",T SPORT 
+
+
+
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="",
+
+
+
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
@@ -758,14 +763,7 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports7
 http://135.125.109.73:9000/beinsport7_.m3u8
 
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Nova Sport
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport 2
-http://178.23.88.55/Eurosport_2/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport 1
-http://178.23.88.55/Eurosport_1/index.m3u8
+
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 2
 http://79.127.243.211:14506/
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 3
@@ -793,19 +791,6 @@ http://79.127.243.211:14481/
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 2
 http://79.127.243.211:14485/
 
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport
-http://178.23.88.55/Arena_sport/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 1 HD
-http://78.108.251.7/Arena_Sport_1/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 2 HD
-http://78.108.251.7/Arena_Sport_2/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 3 HD
-http://78.108.251.7/Arena_Sport_3/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 4 HD
-http://78.108.251.7/Arena_Sport_4/index.m3u8
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Arena Sport 5 HD
-http://78.108.251.7/Arena_Sport_5/index.m3u8
-
 
 
 
@@ -815,21 +800,21 @@ http://78.108.251.7/Arena_Sport_5/index.m3u8
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",HUNGAMA
-http://87.255.35.150:18811/
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",DISNEY_CHANNEL
-http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",NICK_JR
-http://212.102.60.231/NICK_JR/index.m3u8
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="",NICKELODEON
-http://143.244.60.30/NICKELODEON/index.m3u8
+
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
-http://87.255.35.150:18902
+
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Angry Bird
-https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -837,31 +822,22 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon 
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon_Network
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-http://66.102.120.18:8000/play/a00t
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-http://66.102.120.18:8000/play/a011
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Family Channel
-http://212.102.60.10/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg", Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids 
-http://66.102.120.18:8000/play/a00k
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DuckTV
-http://78.108.251.7/DuckTV/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney_Junior
 
@@ -872,46 +848,31 @@ http://78.108.251.7/DuckTV/index.m3u8
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney International HD
-http://66.102.120.18:8000/play/a078
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
-http://66.102.120.18:8000/play/a004
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disny
-http://66.102.120.18:8000/play/a070
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Grizzy & the Lemmings
-https://tiger-hub.vercel.app/kids_Zone/Grizzy&the-Lemmings/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Kidzone Pakistan
-http://66.102.120.18:8000/play/a02l
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",MINIMAX 2
-http://66.102.120.18:8000/play/a04o
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
-http://66.102.120.18:8000/play/a00w
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
-http://66.102.120.18:8000/play/a07a
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr.
-http://66.102.120.18:8000/play/a00m
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Planet Fun HD
-http://66.102.120.18:8000/play/a02k
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
-http://66.102.120.18:8000/play/a00l
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SONY YAY
-http://66.102.120.18:8000/play/a00s
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
-http://66.102.120.18:8000/play/a00p
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
-http://103.182.170.32:8888/play/a04g
+
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",EKids
-http://78.108.251.7/EKids/index.m3u8
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",BabyTV
-http://78.108.251.7/BabyTV/index.m3u8
 
-
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",NickToons
-http://78.108.251.7/NickToons/index.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
@@ -922,34 +883,31 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES HD
-http://87.255.35.150:18211
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES
-http://66.102.120.18:8000/play/a021/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",STAR MOVIES SEL
-http://87.255.35.150:18548
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MNX HD
-http://87.255.35.150:18936
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",MOVIES NOW HD
-http://87.255.35.150:18935
 
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX HD
-http://87.255.35.150:18495
+
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",SONY PIX
-http://66.102.120.18:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND PRiVE HD
-http://87.255.35.150:18494
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AXN
-http://66.102.120.18:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",COLORS INFINITY
-http://66.102.120.18:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND FLIX HD
-http://66.102.120.18:8000/play/a022/index.m3u8
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo=""HWD HOLLYWOOD
-http://172.93.102.112:8989/278839_.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AXN
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",COLORS INFINITY
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND FLIX HD
+
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",
+
 
 
 
@@ -960,91 +918,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1102187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ FOOT
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256123&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ FOOT 4K.
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256629&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL FOOT 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256631&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ FOOT 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256121&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ SPORT 360 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256628&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ Sport 360 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256124&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT", CANAL+ SPORT360 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=256630&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CANAL+ SPORT",CANAL+ Sport 
 
 
 
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=92493&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 1 ( March 4, 2026)" group-title=" RMC CHANNEL",RMC SPORT LIVE 1 
+#EXTINF:-21  group-title="SPORTS +" tvg-logo="",GAZI
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-21  group-title="SPORTS +" tvg-logo="",DIGI2
+http://cors.tundracast.com:2000/http://41.205.93.154/SPORTEVENT-16-DIGI2/index.m3u8
+#EXTINF:-21  group-title="SPORTS" tvg-logo="",
 
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=234&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT1 " group-title=" RMC CHANNEL", RMC SPORT1 
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",
 
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1232&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 " group-title=" RMC CHANNEL", RMC SPORT 1
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 " group-title=" RMC CHANNEL", RMC SPORT 1 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12790&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 2 " group-title="RMC CHANNEL",RMC SPORT 2 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=203436&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 2 " group-title="RMC CHANNEL", RMC SPORT LIVE 2 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=235&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT2 " group-title="RMC CHANNEL", RMC SPORT2 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=1233&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 " group-title="RMC CHANNEL", RMC SPORT 2 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12789&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTs 2 " group-title="RMC CHANNEL", RMC SPORTs 2 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 3 \u1d34\u1d30" group-title="RMC CHANNEL",RMC SPORT LIVE 3 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=118420&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="  RMC SPORT 3 \" group-title="RMC CHANNEL", RMC SPORT 3 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32837&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 3 \u02e2\u1d30" group-title="RMC CHANNEL",RMC SPORT 3
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=12788&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT LIVE 4 " group-title="RMC CHANNEL",RMC SPORT LIVE 4 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=118421&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL",RMC SPORT 4 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=32838&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 1 ACCESS " group-title="RMC CHANNEL", RMC SPORT 1 ACCESS 
-
-http://ts-1-dmtv.live/play/live.php?mac=00:1A:79:3E:CB:3B&stream=9168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" RMC SPORT 4 " group-title=" RMC CHANNEL", RMC SPORT 4 
+#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",
 
 
-#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 1 NZ 
-https://sixseven.attitude.my.id/skynz1/index.m3u8
-#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 2 NZ 
-https://sixseven.attitude.my.id/skynz2/index.m3u8
-#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 3 NZ 
-https://sixseven.attitude.my.id/skynz3/index.m3u8
-#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 4 NZ 
-https://sixseven.attitude.my.id/skynz4/index.m3u8
-#EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 5 NZ 
-https://sixseven.attitude.my.id/skynz5/index.m3u8
+
+
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 6 NZ 
 https://sixseven.attitude.my.id/skynz6/index.m3u8
 #EXTINF:-21  group-title="NZ SPORTS" tvg-logo="",SKY SPORTS 7 NZ 
@@ -1055,8 +944,7 @@ https://sixseven.attitude.my.id/skynz8/index.m3u8
 
 
 
-#EXTINF:-1  group-title="TENNIS" tvg-logo="",SKY SPORTS TENNIS
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
+#EXTINF:-1  group-title="TENNIS" tvg-logo="",
 
 #EXTINF:-1  group-title="TENNIS" tvg-logo="",
 
@@ -1066,6 +954,8 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/4956.ts
 
 #EXTINF:-1  group-title="RUS SPORTS" tvg-logo="",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="RUS SPORTS",match
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
 
 
@@ -1096,8 +986,10 @@ https://cdn-content-cf2-us.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 
 
+
 #EXTINF:-61 group-title="ENGLISH TEST" tvg-logo="",FOX 35
 https://fl1.moveonjoy.com/FOX/index.m3u8
+
 
 
 
@@ -1122,9 +1014,16 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://foxhindi.pages.dev/playlist.m3u8
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",CNA
+http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
+
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1325,9 +1224,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd|ke
 
 
 
+
+
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="MOVIES",
+
 
 
 
