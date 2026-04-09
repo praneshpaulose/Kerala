@@ -158,8 +158,8 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 https://yuppnimresmum.akamaized.net/28072023/smil:powervision.smil/playlist.m3u8?hdnts=st%3D1771312314~exp%3D1771333914~acl%3D%21%2A%2F28072023%2Fsmil%3Apowervision.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_143_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_143_-1~hmac%3Dfe62573b384af8447743c03ff6059192f36d230e6ec5c77f6f58c12d2583502b
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",shalom
 https://yuppnimrestreammum.akamaized.net/260723/smil:shalomtv1.smil/playlist.m3u8?hdnts=st%3D1771312313~exp%3D1771333913~acl%3D%21%2A%2F260723%2Fsmil%3Ashalomtv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_142_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.81.183.84_yuppfast_2_channel_142_-1~hmac%3D6582c901751c54e945827e7b39b7ce52d421acf3fdc17c3d3a50030b8b535677
-
-
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM DEVO",goodness
+http://103.180.212.191:3500/live/1388.m3u8
 
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN HD
@@ -169,7 +169,7 @@ https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",SUN MUSIC
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",JAYA TV
-
+http://103.180.212.191:3500/live/419.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",star vijay
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",COLORS TAMIL
@@ -179,6 +179,11 @@ https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",VIJAY TUKER
 
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",ZEE THIRAI
+
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",JAYA MAX
+http://103.180.212.191:3500/live/420.m3u8
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",JAYA MOVIES
+http://103.180.212.191:3500/live/417.m3u8
 
 
 
@@ -683,8 +688,10 @@ http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 SEL
 
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2  Hindi
+http://103.180.212.191:3500/live/1985.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 HD Hindi
-
+http://103.180.212.191:3500/live/1984.m3u8
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",match
@@ -855,8 +862,8 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",MINIMAX 2
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
-
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",NiCK MALAYALAM
+http://103.180.212.191:3500/live/1340.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr.
@@ -867,8 +874,8 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SONY YAY
 
-#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
-
+#EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SONIC MALAYALAM
+http://103.180.212.191:3500/live/1344.m3u8
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
 
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",EKids
@@ -1001,8 +1008,8 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404
 
 #EXTINF:-51  group-title="NEWS" tvg-logo="",R. Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF:-51  group-title="NEWS" tvg-logo="",
-
+#EXTINF:-51  group-title="NEWS" tvg-logo="",WION
+http://103.180.212.191:3500/live/412.m3u8
 #EXTINF:-51  group-title="NEWS" tvg-logo="",
 
 #EXTINF:-51  group-title="NEWS" tvg-logo="",
