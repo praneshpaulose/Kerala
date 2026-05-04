@@ -80,7 +80,10 @@ http://rtmp.one.by:2300
 
 
 
-
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS", ASIANET NEWS
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",ASiANET News
+https://asianetnews.vgcdn.net/ptnr-lg/title-Asianet_News-LGIndia/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/83e2cbbe-21b5-4a8b-a52e-553a9c77663a/playlist.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",24 NEWS
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM NEWS",MATHRUBHUMI NEWS
