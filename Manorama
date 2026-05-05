@@ -125,7 +125,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ZEE KERALAM
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA TV HD
-https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA MOVIES
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA COM
@@ -150,7 +150,7 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KOCHU TV
 
-#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",KAMUDI
+#EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",
 
 
 
