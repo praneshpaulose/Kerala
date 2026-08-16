@@ -200,10 +200,10 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/inde
 http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL",Star Tamil
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
-
-
-
-
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL"analaimovi
+https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL"analaimusic
+https://proxy.eylog.co.uk/148.113.170.17:8091/analaimusic/index.m3u8
 
 
 
