@@ -187,6 +187,10 @@ http://103.180.212.191:3500/live/417.m3u8
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL",TUNES6
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL MPD",Star Vijay
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd?|drmScheme=clearkey&drmLicense=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL MPD",Astro வெள்ளித்திரை
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 
 #EXTINF:-1 group-title="TAMIL LOCAL" tvg-id="SanaPlus" tvg-logo="https://i.imgur.com/N6tKUZv.png",MU | Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
@@ -540,7 +544,7 @@ https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?view=t
 
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",Travelxp 4K HDR
 https://deltatatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",Travelxp Hindi
+#EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",Travelxp i
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:5 tvg-name="" tvg-logo="" tvg-id="" group-title="INFO",DISCOVERY
 
@@ -600,6 +604,8 @@ http://217.20.112.199/sethd/index.m3u8
 
 #EXTINF:-21 group-title="HINDI ENT" tvg-logo="",COLORS
 
+#EXTINF:-21 group-title="HINDI ENT" tvg-logo="",rishteyuk
+https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8
 
 
 
@@ -714,8 +720,8 @@ http://194.143.148.28:8080/KHL_HD/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",FAST SPORTS HD 🇦🇲
 
-#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",T SPORT 
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",eurosport2 
+http://188.138.29.131/eurosport2/index.m3u8
 
 
 
@@ -898,8 +904,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",AND FLIX HD
 
-#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",
-
+#EXTINF:-1 group-title="ENGLISH MOVIES" group-title="ENGLISH MOVIES" tvg-logo="",Movies action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
 
 
