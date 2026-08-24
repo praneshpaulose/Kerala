@@ -133,7 +133,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",SURYA MUSIC
 
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",ASIANET HD
-http://217.20.112.199/asianet/index.m3u8
+
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:2 tvg-name="" tvg-logo="" tvg-id="" group-title="MALAYALAM SAT",Mazhavil Manorama HD
@@ -748,51 +748,51 @@ http://188.138.29.131/eurosport2/index.m3u8
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707928
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports 2
 http://135.125.109.73:9000/beinsport2_.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports3
-http://135.125.109.73:9000/beinsport3_.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707927
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports4
-http://135.125.109.73:9000/beinsport4_.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707926
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports5
-http://135.125.109.73:9000/beinsport5_.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707925
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports6
-http://135.125.109.73:9000/beinsport6_.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707924
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="BEIN SPORTS",BEIN sports7
-http://135.125.109.73:9000/beinsport7_.m3u8
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707923
 
 
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 2
-http://79.127.243.211:14506/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 3
-http://79.127.243.211:14510/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN 4
-http://79.127.243.211:14514/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Brand spo
-http://79.127.243.211:14445/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",E1
-http://79.127.243.211:14500/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 3
-http://79.127.243.211:14473/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",SporTV 2
-http://79.127.243.211:14469/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",  SBT
-http://79.127.243.211:14095/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Premiere 6
-http://79.127.243.211:14497/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 5
-http://79.127.243.211:14493/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 4
-http://79.127.243.211:14489/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 3
-http://79.127.243.211:14481/
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg", Premiere 2
-http://79.127.243.211:14485/
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",DAZN1
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",ATN
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",ESPN 4
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST tvg-logo="",Brand spo
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",E1
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",SporTV 3
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",SporTV 2
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",  SBT
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="",Premiere 6
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="", Premiere 5
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="", Premiere 4
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="", Premiere 3
+
+#EXTINF:-1 group-title="Sports" group-title="Sports TEST" tvg-logo="", Premiere 2
+
 
 
 
