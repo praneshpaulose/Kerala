@@ -208,8 +208,8 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL"analaimusic
 https://proxy.eylog.co.uk/148.113.170.17:8091/analaimusic/index.m3u8
-
-
+#EXTINF:1 tvg-name="" tvg-logo="" tvg-id="" group-title="TAMIL LOCAL"MOVIES
+https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8
 
 
 #EXTINF:69 tvg-name="" tvg-logo="" tvg-id="" group-title="LOC",Sivan Tv
