@@ -674,7 +674,10 @@ https://aynaott.unosottor.workers.dev/bpk-tv/starsports2hd.m3u8
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten5
 http://103.99.249.139/sonyten3/index.m3u8
-
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten4 tamil
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+#EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Ten1 b
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 1 SEL
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 SEL
@@ -683,6 +686,8 @@ http://103.99.249.139/sonyten3/index.m3u8
 http://103.180.212.191:3500/live/1985.m3u8
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="INDIAN SPORTS",Star Sports 2 HD Hindi
 http://103.180.212.191:3500/live/1984.m3u8
+
+
 
 
 #EXTINF:8 tvg-name="" tvg-logo="" tvg-id="" group-title="SPORTS",match
