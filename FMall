@@ -990,9 +990,12 @@ https://cdn-content-cf2-us.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 
 
-#EXTINF:-61 group-title="ENGLISH TEST" tvg-logo="",FOX 35
-https://fl1.moveonjoy.com/FOX/index.m3u8
-
+#EXTINF:-61 group-title="WORLD TEST" tvg-logo="",NUESTRA TELE HD
+http://170.238.200.199/nuestra-tele/index.m3u8
+#EXTINF:-61 group-title="WORLD TEST" tvg-logo="",Nostalgia
+http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-61 group-title="WORLD TEST" tvg-logo="",iva_padrao
+https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 
 
 
@@ -1028,8 +1031,8 @@ https://foxhindi.pages.dev/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",CNA
 http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
-#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
-
+#EXTINF:-51  group-title="ENG NEWS" tvg-logo="",Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
 
 #EXTINF:-51  group-title="ENG NEWS" tvg-logo="",
